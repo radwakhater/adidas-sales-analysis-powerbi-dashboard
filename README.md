@@ -17,7 +17,7 @@ Interactive Power BI dashboard analyzing Adidas sales performance across retaile
 
 ## Dashboard Pages
 
-### 1. Retailers and Products
+### 1. Sales Analysis | Retailers & Products
 ![Retailers and Products](Adidas_images/02-retailers-products.png)
 - 2.5M units sold, 900M total sales, 332M operating profit, 37% operating margin
 - West Gear leads retailer sales (242.96M), followed by Foot Locker (220.09M) and Sports Direct (182.47M). These three account for about 72% of total sales
@@ -25,12 +25,12 @@ Interactive Power BI dashboard analyzing Adidas sales performance across retaile
 - Men's Street Footwear is first in sales (208.8M), operating profit (82.80M) and operating margin (40%)
 - Men's Athletic Footwear has the lowest margin (34%) despite ranking third in sales (153.7M)
 
-### 2. Regions, Channels and Trends
-![Regions, Channels and Trends](Adidas_images/03-regions-trends.png)
+### 2. Sales Analysis | Regions & Trends
+![Regions and Trends](Adidas_images/03-regions-trends.png)
 - In-store is the largest sales method (40%), followed by Outlet (33%) and Online (28%)
 - Sales peak in July (95.5M) and are lowest in March (56.8M)
 - West is the top region (270M, about 30% of total sales), and Midwest is the lowest (136M)
-- The top 3 states by sales are New York (64.2M), California (60.2M) and Florida (59.3M)
+- Among the top 10 states, New York (64.2M), California (60.2M) and Florida (59.3M) lead in sales
 - Texas ranks fourth in sales (46.4M) but generates 18.7M in operating profit
 
 ## Key Takeaways
